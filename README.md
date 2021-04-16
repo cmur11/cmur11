@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://github.com/cmur11/cmur11/blob/main/banner.png" width="80%" height="50%">
 _My name is Conor and I'm a former onboarding project manager turned software engineer based in New York. Looking for front-end and full stack opportunities_ <br/>
 
 ## 🔭 I’m currently working on 
