@@ -1,5 +1,5 @@
 
-[<img src="https://github.com/cmur11/cmur11/blob/main/banner.png">](https://www.conormurnane.us/)
+[<img src="https://github.com/cmur11/cmur11/blob/main/banner.png" width="80% >](https://www.conormurnane.us/)
 *My name is Conor and I'm a former onboarding project manager turned software engineer based in New York. Looking for front-end and full stack opportunities. Check out my website [here!](https://www.conormurnane.us/)*<br/>
 
 ### Languages and Tools:
