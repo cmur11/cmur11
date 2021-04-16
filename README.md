@@ -1,5 +1,6 @@
-<img src="https://github.com/cmur11/cmur11/blob/main/banner.png" width="80%" height="50%">
-_My name is Conor and I'm a former onboarding project manager turned software engineer based in New York. Looking for front-end and full stack opportunities_ <br/>
+
+[<img src="https://github.com/cmur11/cmur11/blob/main/banner.png">](https://www.conormurnane.us/)
+My name is Conor and I'm a former onboarding project manager turned software engineer based in New York. Looking for front-end and full stack opportunities <br/>
 
 ### Languages and Tools:
 
@@ -24,7 +25,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ## 🔭 I’m currently working on 
 - Nurture Difference Hackathon, a weeklong project comprised of 5 team members
-- Adding Stripe Payment processing to my [ecommerce app](https://github.com/cmur11/ecom-app-frontend)
+
 ## 🌱 I’m currently learning about
 - Data Structures and Algorithms!
 
