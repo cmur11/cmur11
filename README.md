@@ -1,13 +1,6 @@
 <img src="https://github.com/cmur11/cmur11/blob/main/banner.png" width="80%" height="50%">
 _My name is Conor and I'm a former onboarding project manager turned software engineer based in New York. Looking for front-end and full stack opportunities_ <br/>
 
-## 🔭 I’m currently working on 
-- Nurture Difference Hackathon, a weeklong project comprised of 5 team members
-- Adding Stripe Payment processing to my [ecommerce app](https://github.com/cmur11/ecom-app-frontend)
-## 🌱 I’m currently learning about
-- Data Structures and Algorithms!
-
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -22,7 +15,19 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 
+
+
 ### GitHub
 ![Conor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmur11&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmur11&layout=compact)](https://github.com/cmur11/github-readme-stats)
+
+## 🔭 I’m currently working on 
+- Nurture Difference Hackathon, a weeklong project comprised of 5 team members
+- Adding Stripe Payment processing to my [ecommerce app](https://github.com/cmur11/ecom-app-frontend)
+## 🌱 I’m currently learning about
+- Data Structures and Algorithms!
+
+
+
+
