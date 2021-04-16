@@ -1,11 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+_My name is Conor and I'm a former onboarding project manager turned software engineer based in New York. Looking for front-end and full stack opportunities_ <br/>
+
+## 🔭 I’m currently working on 
+- Nurture Difference Hackathon, a weeklong project comprised of 5 team members
+- Adding Stripe Payment processing to my [ecommerce app](https://github.com/cmur11/ecom-app-frontend)
+## 🌱 I’m currently learning about
+- Data Structures and Algorithms!
 
 <!--
 **cmur11/cmur11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
