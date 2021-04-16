@@ -23,6 +23,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br/>
 
 ### GitHub
- <img align="left" alt="Conor's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cmur11&show_icons=true&hide_border=true" />
+![Conor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmur11&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmur11&layout=compact)](https://github.com/cmur11/github-readme-stats)
