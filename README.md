@@ -14,6 +14,7 @@ My name is Conor and I'm a former onboarding project manager turned software eng
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cmur11}/count.svg" alt="cmur11 :: Visitor's Count" /></p>
 
+
 ### Languages and Tools:
 - - - -
 <img align="left" alt="Visual Studio Code" height=
@@ -39,7 +40,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ![Conor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmur11&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmur11&layout=compact)](https://github.com/cmur11/github-readme-stats)
 
 
-
 ## 🔭 I’m currently working on 
 - Nurture Difference Hackathon, a weeklong project comprised of 5 team members
 - Colt Steele's JavaScript Algorithms and Data Structures Masterclass
@@ -49,4 +49,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
 
-
+Credit: Many Resources at https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
