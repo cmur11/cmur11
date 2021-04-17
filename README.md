@@ -3,7 +3,8 @@
 
 ### About Me
 - - - -
-<a href="https://www.linkedin.com/in/conor-murnane/"><img src="https://img.shields.io/badge/-Conor%20Murnane-0077B5?style=flat&logo=Linkedin&logoColor=white"/> <br/>
+<a href="https://www.linkedin.com/in/conor-murnane/"/><img src="https://img.shields.io/badge/-Conor%20Murnane-0077B5?style=flat&logo=Linkedin&logoColor=white"/> <br/>
+  
 My name is Conor and I'm a former onboarding project manager turned software engineer based in New York. I'm currently looking for front-end and full stack opportunities. Check out my [website!](https://www.conormurnane.us/) 
 <br/>
 
