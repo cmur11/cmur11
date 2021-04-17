@@ -3,7 +3,9 @@
 
 ### About Me
 - - - -
-<a href="https://www.linkedin.com/in/conor-murnane/"><img src="https://img.shields.io/badge/-Conor%20Murnane-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><br/> 
+<a href="https://www.linkedin.com/in/conor-murnane/"><img src="https://img.shields.io/badge/-Conor%20Murnane-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/-conormurnane11@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:conormurnane11@gmail.com)
+<br/> 
   
 My name is Conor and I'm a former onboarding project manager turned software engineer based in New York. I'm currently looking for front-end and full stack opportunities. Check out my [website!](https://www.conormurnane.us/) 
 <br/>
@@ -35,11 +37,15 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 - - - -
 ![Conor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmur11&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmur11&layout=compact)](https://github.com/cmur11/github-readme-stats)
 
+
+
 ## 🔭 I’m currently working on 
 - Nurture Difference Hackathon, a weeklong project comprised of 5 team members
+- Colt Steele's JavaScript Algorithms and Data Structures Masterclass
 
 ## 🌱 I’m currently learning about
 - Data Structures and Algorithms!
+- 
 
 
 
