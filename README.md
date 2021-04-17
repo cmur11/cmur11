@@ -2,6 +2,9 @@
 [<img src="https://github.com/cmur11/cmur11/blob/main/banner.png"  >](https://www.conormurnane.us/)
 *My name is Conor and I'm a former onboarding project manager turned software engineer based in New York. Looking for front-end and full stack opportunities. Check out my website [here!](https://www.conormurnane.us/)*<br/>
 
+Connect with me on [LinkedIn!](https://www.linkedin.com/in/conor-murnane/) 
+
+
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
