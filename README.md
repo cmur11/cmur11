@@ -5,6 +5,7 @@
 - - - -
 <a href="https://www.linkedin.com/in/conor-murnane/"><img src="https://img.shields.io/badge/-Conor%20Murnane-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 [![Gmail](https://img.shields.io/badge/-conormurnane11@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:conormurnane11@gmail.com)
+[![GitHub Conor](https://img.shields.io/github/followers/cmur11?label=follow&style=social)](https://github.com/cmur11)
 <br/> 
   
 My name is Conor and I'm a former onboarding project manager turned software engineer based in New York. I'm currently looking for front-end and full stack opportunities. Check out my [website!](https://www.conormurnane.us/) 
