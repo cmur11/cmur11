@@ -25,10 +25,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Netlify" height="50" src="https://iconape.com/wp-content/png_logo_vector/netlify-logo.png" />
 <img align="left" alt="Bootstrap" height="50" src="https://icon2.cleanpng.com/20180328/wfe/kisspng-bootstrap-logo-computer-software-web-application-p-b-5abb6c2a77e0c9.047132091522232362491.jpg" />
 <img align="left" alt="Semantic UI" height="50" src="https://pics.freeicons.io/uploads/icons/png/14959074241551942826-512.png" />
-<img align="left" alt="Terminal" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br/>
-
+<img align="left" alt="Terminal" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br/><br/><br/>
 
 
 ### 📈 GitHub Stats
