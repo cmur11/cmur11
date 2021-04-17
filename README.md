@@ -49,4 +49,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
 
-Credit: Many Resources at https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
+Credit: [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+
