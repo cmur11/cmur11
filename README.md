@@ -10,9 +10,7 @@
   
 My name is Conor and I'm a former onboarding project manager turned software engineer based in New York. I'm currently looking for front-end and full stack opportunities. Check out my [website!](https://www.conormurnane.us/) 
 <br/>
-<h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{cmur11}/count.svg" alt="cmur11 :: Visitor's Count" /></p>
 
 
 ### Languages and Tools:
@@ -37,7 +35,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### 📈 GitHub Stats
 - - - -
-![Conor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmur11&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmur11&layout=compact)](https://github.com/cmur11/github-readme-stats)
+![Conor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmur11&show_icons=true)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmur11&layout=compact)](https://github.com/cmur11/github-readme-stats)
 
 
 ## 🔭 I’m currently working on 
@@ -47,6 +46,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ## 🌱 I’m currently learning about
 - Data Structures and Algorithms!
 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{cmur11}/count.svg" alt="cmur11 :: Visitor's Count" /></p>
 
 
 Credit: [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
